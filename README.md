@@ -1,4 +1,4 @@
-# python-journal
+# python-compilation
 
 <!-- ![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)   -->
 <!-- ABOUT THE PROJECT -->
